@@ -66,4 +66,4 @@ Production Sensitive (Yes/No):
 ## 🎥 Live Demo
 
 Watch the project demo here:  
-🔗 [CommitSense AI – Demo Video]()
+🔗 [CommitSense AI – Demo Video](https://www.linkedin.com/posts/supriya-kanchi-73b1012a1_aiengineering-devops-automation-ugcPost-7431485818424242176-n5ae?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjO5t8BzeRIJua3OwFdmEPWoiWC5pu36h0)
