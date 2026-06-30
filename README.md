@@ -59,7 +59,7 @@ Risk Score (1-10):
 
 Affected Area:
 
-Production Sensitive (Yes/No):
+Production Sensitive:
 
 
 
