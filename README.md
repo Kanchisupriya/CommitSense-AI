@@ -15,7 +15,7 @@ Built using webhook-based event architecture for instant commit intelligence.
 
 📊 Risk scoring (1–10 scale)
 
-🚨 Production-sensitivity detection
+🚨 Production-sensitivity detection.
 
 **🏗 System Architecture**
 
